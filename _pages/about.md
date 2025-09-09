@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a first-year graduate student in [the Department of Computer Science and Technology](https://informatics.xmu.edu.cn/) at [Xiamen University](https://www.xmu.edu.cn/). My research direction is software security testing, specifically focusing on database testing and large model testing.
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+My current graduate advisor is [Professor Wu Rongxin](https://wurongxin1987.github.io/wurongxin.xmu.edu.cn/) from [the System and Software Security Laboratory](https://s-cube-xmu.github.io/zh/) of Xiamen University.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+You can find my CV here: [Jasper's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](mailto:hongjintai@stu.xmu.edu.cn) / [Github](https://github.com/Jasper0209) / [Wechat](../images/wechat.jpg) 
