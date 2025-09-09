@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/personal_image.png"
+  avatar           : "personal_image.png"
   name             : "Jintai Hong"
   pronouns         : # example: "she/her"  
   bio              : "Never put off till tomorrow what may be done today！"
