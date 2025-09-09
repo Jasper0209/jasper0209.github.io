@@ -28,7 +28,7 @@ author:
   bio              : "Never put off till tomorrow what may be done today！"
   location         : "Fujian,CHINA"
   employer         : "Xiamen University"
-  uri              : "https://jasper0209.github.io" # URL
+  uri              : # "https://jasper0209.github.io" # URL
   email            : "hongjintai@stu.xum.edu.cn" 
 
   # Academic websites
