@@ -37,12 +37,6 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul> -->
 
-Blogs
-======
-  <ul>{% for post in site.posts reversed %}
-    {% include archive-single-blog-cv.html  %}
-  {% endfor %}</ul>
-
   
 Service and leadership
 ======
