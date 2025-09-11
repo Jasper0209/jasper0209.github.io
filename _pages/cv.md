@@ -24,7 +24,7 @@ Skills
 * Python
 * Football & Run
 
-
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -35,9 +35,9 @@ Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
-**Blogs**
+Blogs
 ======
   <ul>{% for post in site.posts reversed %}
     {% include archive-single-blog-cv.html  %}
